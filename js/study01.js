@@ -1,4 +1,4 @@
-//data type
+//data type ชนิดข้อมูลใน JaVaScript
 //string
 console.log("Hello Aphasara");
 console.log('Hello Aphasara');

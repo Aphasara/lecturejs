@@ -11,7 +11,7 @@ console.log('-------------------------');
 zz(10, 40, 50);
 console.log('-------------------------');
 
-//Callback function
+//Callback function ส่งฟังก์ชั่นไปให้พารามิเตอร์ทำงานอีกที
 const aa = () => {
     console.log('eye');
 }
